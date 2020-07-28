@@ -56,7 +56,7 @@ b) Put **two spaces** after the end of the line.
 
 For example  
 these lines  
-will all appear 
+will all appear  
 on  
 separate  
 lines.  
