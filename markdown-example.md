@@ -40,8 +40,8 @@ Tables are even possible too, though there are slightly different
 
 | Column One | Column Two     |
 |------------|----------------|
-| Something  | Somethign else |
-| And So on  | You see        |
+| Something  | Something else |
+| And so on  | You see        |
 
 One confusing feature of markdown. If you want a line of text to
  have a carriage-return/newline straight after it, then:
@@ -51,6 +51,8 @@ a) Either leave a blank line
 or
 
 b) Put **two spaces** after the end of the line.
+
+---
 
 For example  
 these lines  
